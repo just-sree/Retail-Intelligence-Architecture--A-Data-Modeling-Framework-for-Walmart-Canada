@@ -1,0 +1,6 @@
+COMPLIANCE_ID,IS_FIRE_SAFETY_MET,IS_CERTIFICATE_MET,IS_REGULATION_MET
+1,False,True,False
+2,False,False,False
+3,True,True,False
+4,True,True,True
+5,False,False,True

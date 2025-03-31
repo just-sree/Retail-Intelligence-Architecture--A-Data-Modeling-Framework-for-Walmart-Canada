@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Brand,Price,WeightKg,DimensionsCM,IsReturnable
+1,Late Choice,Apparel,President’s Choice,38.08,0.25,12x28x9,True
+2,Begin Select,Apparel,Kirkland Canada,95.12,3.22,22x13x10,False
+3,Financial Deluxe,Snacks,Kirkland Canada,73.47,1.64,18x23x7,True
+4,Than Choice,Snacks,President’s Choice,60.27,2.59,16x12x3,False
+5,Recently Select,Dairy,Kirkland Canada,16.45,4.55,21x20x2,False
+6,Process Essentials,Snacks,No Name,16.44,1.32,29x6x2,False
+7,Plan Essentials,Health & Beauty,No Name,6.75,2.11,9x25x3,True
+8,Media Essentials,Snacks,Kirkland Canada,86.75,3.8,30x26x7,True
+9,Decision Select,Health & Beauty,No Name,60.51,1.22,24x7x7,False
+10,Bill Select,Electronics,Kirkland Canada,71.1,0.48,17x24x8,False
+11,Agree Essentials,Health & Beauty,President’s Choice,3.04,1.52,21x13x9,True
+12,Design Essentials,Health & Beauty,Maple Leaf,97.02,0.89,5x26x2,True
+13,Conference Select,Health & Beauty,President’s Choice,83.41,4.66,26x22x5,False
+14,Pull Choice,Dairy,Maple Leaf,22.02,4.06,29x25x6,True
+15,Film Deluxe,Snacks,President’s Choice,19.0,3.2,8x14x7,False
+16,Beat Essentials,Snacks,Great Value Canada,19.16,4.37,10x19x1,True
+17,Material Select,Apparel,No Name,31.12,4.04,28x28x5,False
+18,Three Choice,Dairy,President’s Choice,52.95,1.01,21x29x3,False
+19,Business Choice,Dairy,Maple Leaf,43.76,4.47,21x8x5,True
+20,Foot Choice,Dairy,Kirkland Canada,29.83,2.74,25x21x10,True
+21,Still Essentials,Apparel,Kirkland Canada,61.57,4.06,11x9x6,True
+22,Information Select,Frozen Foods,President’s Choice,14.81,4.49,29x10x9,True
+23,Market Deluxe,Dairy,President’s Choice,29.92,1.66,29x21x1,True
+24,Middle Select,Dairy,President’s Choice,37.27,0.64,24x15x8,False
+25,Want Select,Apparel,Kirkland Canada,46.15,1.22,5x8x6,True
+26,Recent Choice,Frozen Foods,Great Value Canada,78.73,2.19,30x14x4,False
+27,Evidence Deluxe,Dairy,President’s Choice,20.77,4.11,6x12x10,True
+28,Benefit Essentials,Dairy,Kirkland Canada,51.91,4.32,7x7x8,True
+29,Quality Essentials,Electronics,Kirkland Canada,59.65,0.13,7x29x9,False
+30,Off Choice,Frozen Foods,President’s Choice,5.6,2.6,29x9x3,False
+31,Impact Essentials,Snacks,Maple Leaf,61.15,2.15,26x20x9,True
+32,Crime Select,Dairy,Maple Leaf,17.88,1.19,10x13x9,False
+33,Hospital Choice,Health & Beauty,No Name,7.44,0.69,24x18x4,True
+34,Value Deluxe,Apparel,Kirkland Canada,94.94,1.75,22x29x4,True
+35,I Select,Electronics,No Name,96.6,4.72,27x14x7,True
+36,Hope Deluxe,Snacks,No Name,81.03,1.68,26x25x6,False
+37,Culture Deluxe,Snacks,Maple Leaf,31.16,2.64,19x21x8,False
+38,Like Select,Health & Beauty,Maple Leaf,10.67,3.54,8x12x4,True
+39,Another Deluxe,Electronics,Great Value Canada,68.74,1.88,7x15x1,True
+40,Everyone Choice,Apparel,Kirkland Canada,44.58,4.86,23x22x4,True
+41,Less Choice,Health & Beauty,Great Value Canada,13.08,4.82,23x12x1,True
+42,Make Select,Snacks,President’s Choice,50.02,1.33,7x27x1,False
+43,Everyone Essentials,Snacks,Great Value Canada,4.4,2.54,12x7x1,True
+44,Draw Deluxe,Frozen Foods,President’s Choice,91.02,1.57,15x7x9,True
+45,Third Select,Snacks,No Name,26.62,1.5,12x13x8,False
+46,Exist Deluxe,Dairy,Kirkland Canada,66.59,0.28,11x22x3,False
+47,Organization Select,Dairy,Great Value Canada,31.86,3.09,28x23x10,True
+48,Assume Deluxe,Health & Beauty,Kirkland Canada,52.49,2.56,20x12x8,False
+49,City Essentials,Electronics,No Name,55.12,0.35,30x18x4,True
+50,Soldier Select,Electronics,No Name,19.3,1.47,8x8x7,True
+51,Same Choice,Apparel,No Name,96.99,4.55,16x18x7,False
+52,Region Essentials,Apparel,No Name,77.74,1.27,19x28x1,True
+53,Bill Choice,Frozen Foods,Maple Leaf,94.01,0.81,26x25x2,False
+54,Bed Essentials,Electronics,Maple Leaf,89.59,2.5,6x17x6,True
+55,Relate Choice,Frozen Foods,No Name,60.19,4.93,30x8x4,True
+56,Guy Essentials,Apparel,No Name,92.27,1.29,11x11x9,False
+57,System Deluxe,Snacks,Great Value Canada,9.76,3.39,19x9x7,False
+58,Number Choice,Health & Beauty,Kirkland Canada,20.4,3.83,10x13x8,False
+59,Job Deluxe,Frozen Foods,Great Value Canada,5.48,1.26,12x7x8,True
+60,Something Select,Snacks,No Name,33.21,3.67,30x22x2,True
+61,Perform Deluxe,Frozen Foods,Maple Leaf,39.48,1.9,6x25x9,True
+62,Dream Choice,Frozen Foods,President’s Choice,27.86,3.2,5x7x4,True
+63,On Essentials,Apparel,Maple Leaf,83.05,3.2,10x18x8,False
+64,Ask Deluxe,Health & Beauty,Maple Leaf,36.32,2.73,20x11x7,False
+65,Though Essentials,Health & Beauty,Maple Leaf,28.81,0.54,6x10x7,False
+66,Impact Select,Health & Beauty,President’s Choice,54.73,4.19,5x17x5,True
+67,Tell Select,Frozen Foods,No Name,14.95,1.67,30x30x8,False
+68,Necessary Choice,Apparel,No Name,80.42,1.01,14x18x9,False
+69,Kid Essentials,Frozen Foods,No Name,8.38,0.3,26x27x8,False
+70,North Deluxe,Health & Beauty,Maple Leaf,98.7,3.0,9x11x5,False
+71,Right Deluxe,Health & Beauty,Kirkland Canada,77.45,3.42,11x6x10,True
+72,Trial Select,Frozen Foods,Kirkland Canada,20.67,0.18,28x22x1,True
+73,Would Essentials,Electronics,Great Value Canada,1.55,2.61,28x15x1,False
+74,May Essentials,Electronics,Kirkland Canada,81.73,1.21,6x23x8,True
+75,Page Select,Apparel,Maple Leaf,70.98,3.26,21x21x3,False
+76,Upon Deluxe,Frozen Foods,No Name,73.17,0.95,6x21x2,True
+77,Eat Select,Snacks,Kirkland Canada,77.36,3.49,10x7x10,True
+78,Maybe Essentials,Dairy,President’s Choice,8.33,2.0,7x26x4,False
+79,Firm Deluxe,Apparel,President’s Choice,36.49,4.69,17x8x10,False
+80,Bar Select,Electronics,No Name,12.47,0.77,12x23x10,False
+81,Indicate Essentials,Electronics,Kirkland Canada,86.45,1.77,6x24x2,False
+82,Weight Essentials,Apparel,Maple Leaf,62.71,0.66,18x26x10,True
+83,Too Choice,Electronics,Maple Leaf,33.76,4.63,23x21x6,False
+84,Send Choice,Snacks,Kirkland Canada,7.29,4.4,13x11x6,True
+85,Already Select,Electronics,Great Value Canada,31.79,1.36,12x13x7,False
+86,Morning Deluxe,Dairy,Great Value Canada,33.19,3.33,9x26x5,True
+87,Own Deluxe,Dairy,President’s Choice,73.23,4.1,19x15x2,False
+88,Wear Choice,Frozen Foods,No Name,64.12,2.82,5x19x10,True
+89,Nation Essentials,Snacks,President’s Choice,88.83,2.7,23x8x2,True
+90,Such Choice,Electronics,No Name,47.75,1.29,22x11x9,False
+91,Owner Select,Electronics,No Name,12.84,0.56,13x9x6,False
+92,Research Choice,Apparel,No Name,71.61,4.5,7x12x6,True
+93,Pressure Deluxe,Frozen Foods,No Name,76.32,4.51,14x10x8,False
+94,Choice Select,Dairy,Maple Leaf,56.57,3.2,22x27x5,False
+95,Camera Deluxe,Health & Beauty,Kirkland Canada,77.33,1.76,24x30x9,True
+96,Sometimes Select,Apparel,No Name,49.89,1.81,5x26x9,False
+97,List Essentials,Apparel,Kirkland Canada,52.75,3.66,14x26x2,False
+98,Consumer Choice,Electronics,No Name,43.33,4.5,9x13x2,False
+99,Computer Deluxe,Dairy,Maple Leaf,3.52,4.45,8x28x9,False
+100,Development Select,Apparel,Maple Leaf,11.68,3.92,9x13x5,False

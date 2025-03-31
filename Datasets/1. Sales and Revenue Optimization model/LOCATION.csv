@@ -1,0 +1,51 @@
+LocationID,Name,Address,City,State,Region,PostalCode,Zone,Latitude,Longitude,Province,Country
+1,East Curtis,"1375 Robert Locks, Joeland, IN 04195",West Michelleberg,Missouri,Central Canada,N5M 2R2,Suburban,23.582545,-99.069431,ON,Canada
+2,Jamesberg,"522 Justin Village, Hortonberg, VT 61988",Reidstad,Wyoming,Northern Canada,G1X 9A9,Suburban,11.1977025,5.202955,MB,Canada
+3,East Stephaniefort,"04328 Rodriguez Heights, West David, MT 84249",Dunnville,Colorado,Central Canada,H7P 3G6,Suburban,-70.145136,-166.813026,AB,Canada
+4,Webstershire,"17980 Jennifer Highway Suite 095, New Robert, TN 11722",Port Stephen,Washington,Atlantic Canada,T3C 1G1,Urban,30.5454295,79.185754,NB,Canada
+5,Maldonadoshire,"88888 Peter Mountains Apt. 654, West Kristinastad, VA 86628",New Donald,Oklahoma,Atlantic Canada,R5S 5G3,Urban,70.5066465,-123.870490,MB,Canada
+6,Michellemouth,"05852 Pollard Neck Apt. 217, West Jamesborough, AZ 41866",Mckinneymouth,Kansas,Central Canada,L1K 8M0,Urban,38.643584,-21.391034,PE,Canada
+7,South Carlos,"USCGC Hays, FPO AP 62550",East Dustin,Oregon,Central Canada,M3X 9X3,Suburban,66.294938,43.325106,AB,Canada
+8,Welchview,"5054 Lauren Mews, Paulfurt, HI 65539",Port Stephen,North Dakota,Atlantic Canada,R4B 3V6,Suburban,17.5902995,-133.907056,AB,Canada
+9,West Williamport,"416 Ryan View Apt. 845, North Markport, NV 79487",West Mark,Hawaii,Western Canada,E3V 9C8,Suburban,53.4431565,-117.685752,NT,Canada
+10,Hayeston,"757 Jessica Knoll, Hillton, TN 84061",Vargasfurt,Utah,Western Canada,A5N 2R9,Suburban,45.9927955,-103.938720,NU,Canada
+11,Marieland,"29702 Joel Rue, Michaelshire, PA 20612",Keithview,Missouri,Northern Canada,S5Y 2V1,Suburban,22.2867375,7.007520,NL,Canada
+12,New Brookefurt,"7192 Sanders Run Suite 310, South April, OH 15936",Hendersonfort,Hawaii,Central Canada,A9C 0L3,Urban,55.9336485,-12.555145,QC,Canada
+13,Carpenterton,"739 Benson Overpass Apt. 121, Thompsonmouth, TX 42390",Barnesberg,Florida,Western Canada,B0R 8M8,Suburban,-80.130928,4.182522,NU,Canada
+14,Stoutshire,"844 Jennifer Squares, Port Michael, DE 26843",West Kimberlystad,Louisiana,Northern Canada,S6R 1Y8,Suburban,6.5104625,64.454845,YT,Canada
+15,West Cassidy,"0589 Mcdonald Plaza, New Nicole, ME 52688",Port Emily,Maryland,Central Canada,G4C 4C8,Urban,54.1246035,-68.938952,NT,Canada
+16,North Shannon,"Unit 7866 Box 9125, DPO AP 10221",Port Kathleenport,Louisiana,Western Canada,J2Y 5R9,Rural,69.402326,99.771392,NU,Canada
+17,Toniland,"89226 Marie Path Apt. 422, Sarahbury, NC 37731",West Tiffany,New York,Northern Canada,C4S 3B3,Rural,81.310236,79.268922,NT,Canada
+18,North John,"84249 Wayne Extension Apt. 299, Meganshire, AK 11147",Keithview,Georgia,Western Canada,C6E 7B4,Suburban,-67.1878355,6.992297,QC,Canada
+19,Ritterhaven,"396 Tyler Road Suite 473, Evansland, AR 21220",Port Jenniferside,California,Atlantic Canada,H1A 2A2,Rural,-60.6413685,75.637813,NT,Canada
+20,West Nathan,"3592 Hensley Island Suite 625, West Johnville, NV 32996",Wilsonfort,Hawaii,Western Canada,V5X 8L2,Rural,-23.366007,-127.589033,AB,Canada
+21,Paulmouth,"6963 Lisa Ports, Jamesburgh, NY 61687",Wilsonfort,Nevada,Atlantic Canada,P2L 1A5,Urban,86.5235975,55.238547,PE,Canada
+22,Port Crystalmouth,"0168 Levy Forge Suite 004, Harperfort, ND 01572",Keithview,Louisiana,Western Canada,S4X 1L9,Suburban,88.4274075,62.905738,YT,Canada
+23,West Codyfurt,"45650 Williams Points Apt. 584, South Williamside, RI 89682",East Dustin,Nebraska,Northern Canada,C7T 8P0,Urban,5.2969545,-8.786779,PE,Canada
+24,Johnathanberg,"65585 James Pass, Porterton, DC 94032",South Derrickfurt,Maryland,Central Canada,V9H 5H4,Urban,-45.348852,-143.936049,NL,Canada
+25,Christopherberg,"729 Mark Ridge Suite 269, Brittneyhaven, NY 70275",East Dustin,New Mexico,Atlantic Canada,E9E 3X0,Suburban,83.677698,-18.796947,NS,Canada
+26,Kylefurt,"0551 Silva Underpass Apt. 974, Lake Brett, GA 69213",Lake Jasonview,California,Central Canada,B0K 0V5,Urban,74.4644725,-156.010970,NB,Canada
+27,New Jeanne,"30913 Scott Manor Apt. 636, Salaston, DC 68485",Port Jamie,Mississippi,Central Canada,R2H 0Y6,Suburban,-78.109198,-118.214068,AB,Canada
+28,West Angelicamouth,"786 Frye Mount Suite 854, Leebury, OH 39625",Port Jenniferside,Kentucky,Northern Canada,K5K 6N4,Suburban,61.188294,-167.874711,SK,Canada
+29,Lake Jacqueline,"3757 Castro Underpass Suite 419, Huangfurt, MI 19699",Port Amandaborough,Kansas,Western Canada,C9P 1X0,Rural,83.149245,4.188571,SK,Canada
+30,Lake Ellenhaven,"157 Burgess Forest Apt. 848, Derrickshire, IA 07154",Wilsonfort,Washington,Central Canada,H3X 0R1,Suburban,83.6089155,167.876202,NL,Canada
+31,Andrewport,"301 Rivera Mountains, Lake Kellitown, GA 53835",East Dustin,South Dakota,Central Canada,T4M 5C8,Suburban,17.271570,-121.286360,NT,Canada
+32,East Matthew,"3454 Rebecca Corners Apt. 802, Khanburgh, AZ 52535",West Tiffany,New York,Atlantic Canada,T0P 3M9,Suburban,-0.9876885,-91.763069,QC,Canada
+33,Leeberg,"400 Bradley Coves, Justinside, NM 18090",Hendersonfort,Rhode Island,Western Canada,M9K 7P9,Suburban,25.5495305,-49.050234,NS,Canada
+34,North Kenneth,"3152 Wong Stravenue Apt. 054, East Cheryl, MO 56560",Port Amandaborough,South Carolina,Atlantic Canada,V3Y 3G0,Suburban,-61.560725,97.022118,AB,Canada
+35,New Kellihaven,"1227 Boyle Avenue, Patrickmouth, KY 43705",Port Kathleenport,Illinois,Atlantic Canada,S0K 8P0,Rural,-87.168603,-86.341136,NU,Canada
+36,Lake Matthewberg,"5301 Parker Lodge, Hannahport, RI 29448",Harveystad,New Jersey,Western Canada,N0R 4E3,Rural,-63.530504,116.304583,MB,Canada
+37,Mooreburgh,"2795 Miles Mountains, Port John, PA 11231",West Michelleberg,Connecticut,Central Canada,X3S 7B2,Urban,-20.5454465,-94.027796,NU,Canada
+38,Lake Samuel,"91088 Ashley Drive Apt. 587, Lake Jamieshire, CO 67396",Jacksonshire,Florida,Western Canada,L1B 3X6,Suburban,-30.4070385,-2.301281,MB,Canada
+39,Diazbury,"2867 Angelica Spring, Jenniferfurt, AL 98255",Port Amandaborough,Maryland,Western Canada,P7C 9E8,Suburban,47.083608,120.566618,ON,Canada
+40,Bishopmouth,"65180 Valerie Mountains, West Robertberg, SD 96090",Keithview,Alabama,Atlantic Canada,G6C 9B6,Rural,49.2637155,48.905318,YT,Canada
+41,New John,"6766 Felicia Shore Apt. 512, Ricebury, AL 99614",West Daryl,Montana,Western Canada,G3M 4N6,Rural,59.7852165,68.063436,PE,Canada
+42,Mckeeborough,"8686 John Key Apt. 431, Port Donnatown, IL 09320",West Michelleberg,Michigan,Atlantic Canada,N5T 4K1,Urban,65.831693,-55.523503,PE,Canada
+43,Erikashire,"9030 Gonzales Plains, Port Michelle, DC 66547",West Nancy,South Carolina,Northern Canada,J2E 2E2,Suburban,64.4135775,37.458184,SK,Canada
+44,Murrayport,"Unit 3959 Box 9534, DPO AE 87036",Harveystad,Missouri,Northern Canada,T7N 6E8,Suburban,-30.6672445,158.099996,NL,Canada
+45,Shawchester,"4089 Connie Meadow Suite 056, Heatherchester, ME 49844",Port Jamie,Michigan,Central Canada,P3T 4T4,Urban,29.6627695,-80.973208,MB,Canada
+46,Port James,"34270 Faulkner Point Apt. 634, West Deborah, MN 12620",Grimesville,New Hampshire,Western Canada,E1H 4B3,Suburban,10.426957,-79.934283,ON,Canada
+47,Port John,"46990 Jacob Trace, South Jason, MA 40240",Port Emily,Michigan,Western Canada,N2C 3P6,Suburban,14.994278,163.854476,NS,Canada
+48,Sawyerside,"USS Lewis, FPO AE 97687",Candicefurt,Nevada,Central Canada,X0M 4H0,Suburban,34.3025835,172.889496,BC,Canada
+49,Lake Meghanville,"93638 Rowe Light Suite 854, Michaelfort, CT 95189",Lake Dennisville,Tennessee,Atlantic Canada,R7Y 8K1,Rural,67.9984135,52.000418,SK,Canada
+50,Christopherburgh,"55609 Joyce Brook Suite 899, Phillipsborough, IN 50287",Lake Dennisville,Rhode Island,Western Canada,T1G 1A0,Rural,44.342761,32.376674,BC,Canada

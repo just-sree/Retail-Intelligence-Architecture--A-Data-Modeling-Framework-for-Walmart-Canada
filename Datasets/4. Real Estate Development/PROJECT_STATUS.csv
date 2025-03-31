@@ -1,0 +1,6 @@
+PROJECT_STATUS_ID,IS_NEW_BUILD,IS_HALF_BUILT,IS_COMPLETED_PROJECT,REQUIRES_REDESIGN,REQUIRES_RECONSTRUCTION
+1,False,True,False,False,False
+2,False,False,True,False,True
+3,True,False,True,False,True
+4,True,True,True,True,True
+5,True,True,True,False,True

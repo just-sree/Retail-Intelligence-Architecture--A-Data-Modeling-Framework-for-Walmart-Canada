@@ -1,0 +1,11 @@
+PromotionID,Type,Duration,Effectiveness
+1,Seasonal Offer,29,0.17
+2,BOGO,9,0.23
+3,Coupon,16,0.09
+4,Coupon,22,0.2
+5,BOGO,19,0.29
+6,BOGO,23,0.38
+7,BOGO,14,0.05
+8,Flash Sale,27,0.26
+9,Flash Sale,18,0.18
+10,Flash Sale,26,0.43

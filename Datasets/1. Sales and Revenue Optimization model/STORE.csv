@@ -1,0 +1,51 @@
+StoreID,StoreName,ManagerName,Type,OpeningYear,FootTrafficIndex,LocationID
+1,Walmart West Michelleberg,Alexander Collins,Express,2001,73,1
+2,Walmart Reidstad,Tina Sanders,Neighborhood Market,2007,60,2
+3,Walmart Dunnville,Angela Vaughn,Express,2015,98,3
+4,Walmart Port Stephen,Ashley Barton,Supercenter,2019,57,4
+5,Walmart New Donald,Lindsay Martinez,Supercenter,2002,85,5
+6,Walmart Mckinneymouth,Dr. Hannah Patterson,Neighborhood Market,2014,87,6
+7,Walmart East Dustin,Jonathan Peterson,Express,2013,89,7
+8,Walmart Port Stephen,Samantha Garcia,Neighborhood Market,2020,69,8
+9,Walmart West Mark,Madison Poole,Express,2018,84,9
+10,Walmart Vargasfurt,Jessica Gross,Express,2006,97,10
+11,Walmart Keithview,Debra Morton,Supercenter,2022,74,11
+12,Walmart Hendersonfort,Karen Graham,Express,2022,84,12
+13,Walmart Barnesberg,Debra Christian,Express,2012,74,13
+14,Walmart West Kimberlystad,Angelica Keith,Neighborhood Market,2015,78,14
+15,Walmart Port Emily,John Bishop,Neighborhood Market,2012,67,15
+16,Walmart Port Kathleenport,Allen Rosales,Express,2007,95,16
+17,Walmart West Tiffany,Daniel Salinas,Supercenter,2004,67,17
+18,Walmart Keithview,Spencer Haynes,Neighborhood Market,2020,51,18
+19,Walmart Port Jenniferside,Adam Vaughan,Neighborhood Market,2022,84,19
+20,Walmart Wilsonfort,Nathan Freeman,Supercenter,2000,65,20
+21,Walmart Wilsonfort,Melissa Brewer,Neighborhood Market,2003,90,21
+22,Walmart Keithview,Ricky Davis II,Express,2013,85,22
+23,Walmart East Dustin,Elizabeth Perkins,Express,2007,82,23
+24,Walmart South Derrickfurt,Joseph Coleman,Express,2005,53,24
+25,Walmart East Dustin,Erin Warner,Neighborhood Market,2022,82,25
+26,Walmart Lake Jasonview,David Martinez,Neighborhood Market,2016,63,26
+27,Walmart Port Jamie,Bryan Herrera,Neighborhood Market,2014,70,27
+28,Walmart Port Jenniferside,Cathy Robinson,Neighborhood Market,2001,97,28
+29,Walmart Port Amandaborough,Dr. William Warren,Express,2017,69,29
+30,Walmart Wilsonfort,Brian Lee,Supercenter,2007,57,30
+31,Walmart East Dustin,Christopher Smith,Express,2003,56,31
+32,Walmart West Tiffany,Denise Mccann,Neighborhood Market,2014,52,32
+33,Walmart Hendersonfort,Melissa Martinez,Express,2004,66,33
+34,Walmart Port Amandaborough,Katherine Salas,Supercenter,2014,82,34
+35,Walmart Port Kathleenport,Julie Alexander,Express,2021,97,35
+36,Walmart Harveystad,Anthony Everett,Supercenter,2016,61,36
+37,Walmart West Michelleberg,Rodney Morales,Neighborhood Market,2017,71,37
+38,Walmart Jacksonshire,Mark Brown,Express,2019,71,38
+39,Walmart Port Amandaborough,Justin Torres,Express,2010,95,39
+40,Walmart Keithview,Bailey Duran DDS,Express,2014,79,40
+41,Walmart West Daryl,Courtney Mills,Express,2019,87,41
+42,Walmart West Michelleberg,Jeremy Dalton,Neighborhood Market,2016,87,42
+43,Walmart West Nancy,Elizabeth Oliver DDS,Supercenter,2013,94,43
+44,Walmart Harveystad,Theresa Clark,Supercenter,2017,57,44
+45,Walmart Port Jamie,Matthew Moore,Express,2014,76,45
+46,Walmart Grimesville,Benjamin Smith,Neighborhood Market,2005,76,46
+47,Walmart Port Emily,Kirk Carter,Supercenter,2015,83,47
+48,Walmart Candicefurt,Michael Warner,Supercenter,2014,70,48
+49,Walmart Lake Dennisville,Michael Bradshaw,Supercenter,2008,79,49
+50,Walmart Lake Dennisville,Lori Guerrero,Supercenter,2007,82,50

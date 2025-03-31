@@ -1,0 +1,101 @@
+product_id,product_name,product_brand,product_category,product_color,product_price,product_size
+PROD100,Next Pro,Maple Leaf,Beauty,Black,89.32,XL
+PROD101,Center Max,Maple Leaf,Home,Black,39.41,Medium
+PROD102,Better Max,PC,Beauty,Blue,143.17,XL
+PROD103,Final Lite,No Name,Electronics,Black,113.98,Large
+PROD104,Local Lite,PC,Beauty,Green,117.44,Small
+PROD105,One Lite,PC,Home,White,189.06,Large
+PROD106,Response Max,No Name,Home,Red,98.82,XL
+PROD107,Thought Pro,Maple Leaf,Clothing,Red,54.36,Large
+PROD108,Your Max,PC,Home,White,39.92,Medium
+PROD109,Yet Max,PC,Clothing,Black,43.29,XL
+PROD110,Yourself Plus,Great Value Canada,Home,White,97.06,Large
+PROD111,Charge Plus,Maple Leaf,Clothing,Blue,79.4,Medium
+PROD112,Staff Max,Great Value Canada,Home,Blue,174.62,Medium
+PROD113,Eight Lite,PC,Clothing,Black,183.73,Large
+PROD114,Data Max,Great Value Canada,Home,Blue,118.46,Small
+PROD115,Light Max,Great Value Canada,Beauty,Black,149.26,Small
+PROD116,Quite Pro,No Name,Groceries,White,133.01,Small
+PROD117,Side Lite,Great Value Canada,Groceries,Black,90.63,Large
+PROD118,Up Lite,No Name,Beauty,Green,154.3,XL
+PROD119,Clearly Lite,Great Value Canada,Groceries,Black,174.69,Large
+PROD120,Rule Plus,No Name,Electronics,Green,113.34,Medium
+PROD121,Arrive Pro,PC,Home,Black,46.22,Large
+PROD122,With Plus,Great Value Canada,Clothing,Blue,96.73,XL
+PROD123,Out Lite,No Name,Clothing,Blue,84.35,Small
+PROD124,Say Plus,No Name,Clothing,Black,63.76,XL
+PROD125,Score Max,Great Value Canada,Home,Green,125.19,Large
+PROD126,Expect Lite,Great Value Canada,Clothing,Blue,12.54,XL
+PROD127,Free Pro,Great Value Canada,Clothing,Green,88.4,Medium
+PROD128,Attack Lite,Great Value Canada,Clothing,Green,117.29,Large
+PROD129,Series Plus,PC,Clothing,Blue,175.71,Small
+PROD130,Win Pro,Great Value Canada,Groceries,Blue,64.72,Large
+PROD131,Indicate Pro,No Name,Groceries,White,10.38,Large
+PROD132,Method Lite,Maple Leaf,Clothing,Green,124.5,Small
+PROD133,Instead Plus,PC,Clothing,White,38.95,Small
+PROD134,Space Plus,Great Value Canada,Electronics,Red,139.56,Medium
+PROD135,Show Plus,Great Value Canada,Groceries,Black,102.7,XL
+PROD136,Light Plus,Great Value Canada,Home,Green,24.99,Small
+PROD137,Actually Lite,No Name,Clothing,Red,107.54,Small
+PROD138,Indicate Pro,No Name,Groceries,White,109.34,Medium
+PROD139,Debate Max,Great Value Canada,Clothing,Blue,107.71,Medium
+PROD140,Investment Plus,No Name,Home,Green,145.73,Small
+PROD141,Professor Lite,Great Value Canada,Electronics,Black,104.49,Medium
+PROD142,Discuss Plus,Great Value Canada,Clothing,Red,12.85,Medium
+PROD143,Remain Pro,Great Value Canada,Groceries,Green,27.86,Small
+PROD144,Challenge Plus,Maple Leaf,Groceries,White,108.5,Large
+PROD145,Time Max,No Name,Beauty,White,31.18,Large
+PROD146,Travel Max,No Name,Groceries,Green,119.59,Large
+PROD147,Step Pro,Great Value Canada,Groceries,Black,120.47,Small
+PROD148,System Max,Great Value Canada,Electronics,Red,80.42,XL
+PROD149,Nature Pro,Maple Leaf,Electronics,White,186.14,Large
+PROD150,Last Lite,PC,Clothing,White,45.7,Small
+PROD151,Deep Lite,No Name,Clothing,Blue,5.78,XL
+PROD152,Above Max,Maple Leaf,Groceries,Black,148.59,XL
+PROD153,Budget Plus,No Name,Home,Blue,25.22,Small
+PROD154,Audience Lite,Maple Leaf,Home,Black,143.58,XL
+PROD155,Certainly Pro,No Name,Groceries,Red,27.32,XL
+PROD156,Use Lite,Maple Leaf,Electronics,White,14.9,Medium
+PROD157,Student Max,PC,Clothing,Blue,20.95,Small
+PROD158,That Max,Great Value Canada,Clothing,Blue,140.28,Medium
+PROD159,Civil Pro,Maple Leaf,Groceries,Red,172.62,XL
+PROD160,Agreement Max,No Name,Home,Black,170.86,Medium
+PROD161,Term Plus,Great Value Canada,Beauty,Black,160.19,Small
+PROD162,Thought Pro,Great Value Canada,Home,Green,118.67,Large
+PROD163,Appear Plus,No Name,Groceries,White,37.04,Medium
+PROD164,Vote Lite,No Name,Groceries,Green,64.56,Medium
+PROD165,View Max,PC,Clothing,Blue,163.78,Small
+PROD166,Service Max,No Name,Beauty,Black,199.21,Small
+PROD167,Require Lite,No Name,Clothing,Black,191.41,Small
+PROD168,National Max,Great Value Canada,Clothing,White,151.01,Medium
+PROD169,Final Pro,Great Value Canada,Clothing,Black,192.92,XL
+PROD170,Most Plus,No Name,Groceries,Green,172.93,Small
+PROD171,Why Max,No Name,Clothing,Green,160.92,Small
+PROD172,Executive Lite,PC,Electronics,Blue,149.74,Medium
+PROD173,Card Pro,No Name,Home,Blue,178.1,Medium
+PROD174,Important Lite,No Name,Electronics,Green,181.61,Medium
+PROD175,Technology Max,Maple Leaf,Electronics,Green,178.72,Medium
+PROD176,Environment Max,PC,Home,Red,123.93,Large
+PROD177,Spring Plus,Maple Leaf,Clothing,Black,64.75,Large
+PROD178,True Plus,PC,Beauty,Red,92.22,XL
+PROD179,Of Max,No Name,Home,Blue,139.83,XL
+PROD180,Democrat Pro,Maple Leaf,Groceries,Green,158.11,Small
+PROD181,Democratic Max,PC,Groceries,Green,92.07,Large
+PROD182,Soldier Plus,PC,Beauty,Black,148.64,XL
+PROD183,Difference Pro,No Name,Clothing,Blue,133.35,Small
+PROD184,Land Max,Great Value Canada,Groceries,White,131.24,XL
+PROD185,Time Pro,PC,Clothing,White,69.74,Small
+PROD186,Live Lite,PC,Clothing,Red,108.06,Small
+PROD187,Republican Pro,No Name,Electronics,Black,97.71,Medium
+PROD188,Part Pro,Great Value Canada,Home,Black,153.98,Small
+PROD189,I Max,Great Value Canada,Groceries,Blue,175.95,Medium
+PROD190,Agency Plus,Great Value Canada,Home,Blue,103.11,Medium
+PROD191,Your Lite,Maple Leaf,Home,Black,108.7,XL
+PROD192,Strategy Plus,PC,Beauty,Red,104.46,Small
+PROD193,Mr Plus,Great Value Canada,Clothing,Red,160.45,Large
+PROD194,Compare Plus,Maple Leaf,Beauty,White,69.99,Small
+PROD195,Wrong Pro,Great Value Canada,Electronics,Red,92.41,Large
+PROD196,Rock Max,Maple Leaf,Beauty,Black,117.15,Medium
+PROD197,Now Plus,Great Value Canada,Groceries,White,195.54,XL
+PROD198,Point Max,Great Value Canada,Beauty,Blue,147.73,Medium
+PROD199,Into Max,PC,Home,White,165.2,Medium

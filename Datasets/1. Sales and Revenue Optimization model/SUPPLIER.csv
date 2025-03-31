@@ -1,0 +1,31 @@
+SupplierID,Name,ReliabilityScore,Region,LeadTimeDays,HasContract
+1,"Stewart, Mann and Hoffman Canada",0.86,Atlantic Canada,6,False
+2,"Buchanan, Walker and Chapman Canada",0.79,Northern Canada,7,True
+3,Gray Ltd Canada,0.64,Central Canada,1,True
+4,"Phillips, Thompson and Smith Canada",0.96,Central Canada,9,False
+5,"Fry, Myers and Gamble Canada",0.52,Western Canada,3,True
+6,"Johnson, Guzman and Mccall Canada",0.55,Northern Canada,4,True
+7,"Walker, Cunningham and Zuniga Canada",0.7,Northern Canada,10,True
+8,Rivera Inc Canada,0.56,Western Canada,1,False
+9,Reed LLC Canada,0.98,Atlantic Canada,13,True
+10,Fields Inc Canada,0.9,Northern Canada,11,False
+11,"Santiago, Daniel and Rogers Canada",0.63,Central Canada,10,True
+12,Baker and Sons Canada,0.79,Northern Canada,3,True
+13,"Jones, Scott and Rodriguez Canada",0.99,Western Canada,2,False
+14,Williams Group Canada,0.94,Northern Canada,2,False
+15,"Barnes, Jackson and Gutierrez Canada",0.8,Atlantic Canada,1,False
+16,Bell-Bennett Canada,0.95,Western Canada,8,True
+17,Kramer-Lane Canada,0.99,Western Canada,3,True
+18,"Perez, Hayes and Lloyd Canada",0.87,Central Canada,3,False
+19,Phillips LLC Canada,0.53,Northern Canada,6,True
+20,Lynn-Jones Canada,0.7,Western Canada,13,True
+21,Barron and Sons Canada,0.92,Atlantic Canada,8,False
+22,"Jones, Mcmahon and Spence Canada",0.62,Atlantic Canada,13,True
+23,Wheeler-Austin Canada,0.92,Atlantic Canada,9,True
+24,Bush-Reynolds Canada,0.56,Central Canada,9,False
+25,"Martin, Preston and Moore Canada",0.52,Atlantic Canada,4,False
+26,Rivera and Sons Canada,0.69,Central Canada,5,False
+27,Terry-Bowen Canada,0.52,Atlantic Canada,2,True
+28,"Fernandez, Guerrero and Evans Canada",0.98,Northern Canada,11,False
+29,Williams PLC Canada,0.91,Atlantic Canada,9,False
+30,"Larsen, Hernandez and Ward Canada",0.9,Atlantic Canada,8,False

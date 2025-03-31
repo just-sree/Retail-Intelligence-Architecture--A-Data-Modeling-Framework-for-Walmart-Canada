@@ -1,0 +1,6 @@
+payment_method_id,payment_method_name
+PM1,Credit Card
+PM2,Debit Card
+PM3,PayPal
+PM4,Gift Card
+PM5,Apple Pay
